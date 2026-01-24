@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/football.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/football.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/golive.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/golive.html"
+        }
+    ]
+}
